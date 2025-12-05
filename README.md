@@ -27,7 +27,7 @@
 
 ---
 
-## 🧪 **Gráfico estilo terminal (tema preto + amarelo)**
+## 🧪 Gráfico estilo terminal
 <div align="center">
 
 <!-- Stats -->
