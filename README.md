@@ -27,13 +27,12 @@
 
 ---
 
-## 🧪 Gráfico estilo terminal
 <div align="center">
 
-<!-- Stats -->
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Andrew-Salim&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=FFD300&icon_color=FFD300&text_color=FFFFFF"/>
 
-<!-- Activity Graph amarelo + preto -->
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andrew-Salim&bg_color=000000&color=FFD300&line=FFD300&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
